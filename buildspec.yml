@@ -42,5 +42,6 @@ artifacts:
   # notably excluded is node_modules, as this will cause overwrite error on deploy
   files:
     - models/*
+    - imagedefinitions.json
     - package.json
     - index.js
